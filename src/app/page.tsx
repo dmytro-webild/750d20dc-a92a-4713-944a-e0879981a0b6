@@ -87,7 +87,7 @@ export default function LandingPage() {
           handle: "@emilyp",
           testimonial: "Friendly atmosphere and high-quality ingredients.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-waitress_107420-12307.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-waitress_107420-12307.jpg?_wi=1",
         },
       ]}
       tag="Since the early days"
@@ -222,7 +222,7 @@ export default function LandingPage() {
           handle: "@sarahj",
           testimonial: "Best Reuben ever. Service is so homey!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-waitress_107420-12307.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-waitress_107420-12307.jpg?_wi=2",
         },
         {
           id: "2",
